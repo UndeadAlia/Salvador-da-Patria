@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7749242400211233895
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7749242400211233896}
+  - component: {fileID: 6939685298112856892}
+  - component: {fileID: 2093898616}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: GameManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7749242400211233896
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7749242400211233895}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 9.173842, y: -1.9020405, z: -33.577614}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6939685298112856892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7749242400211233895}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c66c429f857497c418420506e51d63a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questMarkerNames:
+  - none
+  - Fale com o Ferreiro
+  - "Siga a estrada ao norte e v\xE1 at\xE9 o Castelo"
+  - 'Fale com o Chefe.5 '
+  - "Espanque o Chefe, aperte J para atacar esse ot\xE1rio."
+  - 'Entre no Castelo e fale com o Rei '
+  - "V\xE1 at\xE9 a Torre do Professor, \xE0 oeste da Forja"
+  - Fale com o Professor
+  - Saia da cidade
+  - Siga a estrada e procure o Chefe dos Goblins
+  - Fale com o Chefe dos Goblins
+  - Mate o Chefe dos Goblins
+  - "Volte \xE0 cidade com as novidades"
+  - "V\xE1 at\xE9 a Torre e fale com o Professor"
+  - Fale com o Rei sobre a sua recompensa
+  - "Siga a estrada at\xE9 a Floresta dos Elfos"
+  - Fale com o Rei dos Elfos
+  - Encontre o Super Lobo
+  - Mate o Super Lobo
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  - "Volte ao Rei dos Elfos com a cabe\xE7a do Super Lobo"
+  questMarkersComplete: 
+  activeQuest: 
+--- !u!114 &2093898616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7749242400211233895}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7b9ef12f9be02f4fb311f0783fc62ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerStats: {fileID: 4482001084611159154, guid: 4b5773a7901fca44788f010f767e3e64,
+    type: 3}
+  dialogActive: 0
+  fadingBetweenAreas: 0
+  gameMenuOpen: 0
+  shopActive: 0
+  itemsHeld:
+  - Health Potion
+  - Iron Armor
+  - Dagger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Mana Potion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  numberOfItems: 0100000001000000010000000000000000000000000000000000000000000000000000000a0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  referenceItems:
+  - {fileID: 156691335715537873, guid: e2664f6645874124baf9c6c98553184a, type: 3}
+  - {fileID: 707549544124301393, guid: b710ad715a917414ebc9be35fdf5e4dc, type: 3}
+  - {fileID: 7539029130005799164, guid: 9e999e26ebdde4d4f9f70f574633af63, type: 3}
+  - {fileID: 7539029130005799164, guid: dd0e7ef88f38cb0488c69ce848b30e1c, type: 3}
+  - {fileID: 3099729444273243822, guid: b3776cf33d95eee41a08b93d35b44866, type: 3}
+  currentGold: 999

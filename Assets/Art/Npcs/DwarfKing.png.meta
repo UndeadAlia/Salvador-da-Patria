@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 655650dc21047fb4db7a481217da24fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7722239934271889763
+    second: DwarfKing_0
+  - first:
+      213: 3265630973444560686
+    second: DwarfKing_1
+  - first:
+      213: 6798946106014624734
+    second: DwarfKing_2
+  - first:
+      213: 5400811467937057213
+    second: DwarfKing_3
+  - first:
+      213: -6960297570653951816
+    second: DwarfKing_4
+  - first:
+      213: 7888841442353181336
+    second: DwarfKing_5
+  - first:
+      213: -3494949373036142167
+    second: DwarfKing_6
+  - first:
+      213: -5136849509637277562
+    second: DwarfKing_7
+  - first:
+      213: 8367774447170233783
+    second: DwarfKing_8
+  - first:
+      213: 6840510649802934320
+    second: DwarfKing_9
+  - first:
+      213: 5588880286231324479
+    second: DwarfKing_10
+  - first:
+      213: 2119116228890022768
+    second: DwarfKing_11
+  - first:
+      213: -1904945131967830696
+    second: DwarfKing_12
+  - first:
+      213: -6636653151439314152
+    second: DwarfKing_13
+  - first:
+      213: -467963579613057373
+    second: DwarfKing_14
+  - first:
+      213: -5154092593542216289
+    second: DwarfKing_15
+  - first:
+      213: 169403393663915396
+    second: DwarfKing_16
+  - first:
+      213: 558539062254459703
+    second: DwarfKing_17
+  - first:
+      213: 4181646467975517200
+    second: DwarfKing_18
+  - first:
+      213: 6913792263476999335
+    second: DwarfKing_19
+  - first:
+      213: -1231851322571590211
+    second: DwarfKing_20
+  - first:
+      213: -94587737154277348
+    second: DwarfKing_21
+  - first:
+      213: -5720426207127913637
+    second: DwarfKing_22
+  - first:
+      213: 6872809174521482836
+    second: DwarfKing_23
+  - first:
+      213: 2036630846861111162
+    second: DwarfKing_24
+  - first:
+      213: -261936997097802001
+    second: DwarfKing_25
+  - first:
+      213: -6134155824358539055
+    second: DwarfKing_26
+  - first:
+      213: 3018592660159373581
+    second: DwarfKing_27
+  - first:
+      213: 1129011593443885201
+    second: DwarfKing_28
+  - first:
+      213: 5864061362717281505
+    second: DwarfKing_29
+  - first:
+      213: -5029349542642091164
+    second: DwarfKing_30
+  - first:
+      213: 3919334035979276367
+    second: DwarfKing_31
+  - first:
+      213: 6309234884013203164
+    second: DwarfKing_32
+  - first:
+      213: 492964736262390802
+    second: DwarfKing_33
+  - first:
+      213: -8577030918729710671
+    second: DwarfKing_34
+  - first:
+      213: 679505585020953866
+    second: DwarfKing_35
+  - first:
+      213: 2475898836463381186
+    second: DwarfKing_36
+  - first:
+      213: 4162565315993371259
+    second: DwarfKing_37
+  - first:
+      213: 946791353286798448
+    second: DwarfKing_38
+  - first:
+      213: -5919677748400946054
+    second: DwarfKing_39
+  - first:
+      213: -1463710544028777131
+    second: DwarfKing_40
+  - first:
+      213: 5129671642325474899
+    second: DwarfKing_41
+  - first:
+      213: 1964420680172839925
+    second: DwarfKing_42
+  - first:
+      213: 7315763998953300407
+    second: DwarfKing_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DwarfKing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361ac985e48ea2b60800000000000000
+      internalID: 7722239934271889763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfKing_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 151
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e271dab711ad15d20800000000000000
+      internalID: 3265630973444560686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfKing_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 151
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbe6080675ba5e50800000000000000
+      internalID: 6798946106014624734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfKing_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db98e355a6983fa40800000000000000
+      internalID: 5400811467937057213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfKing_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 101
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8282a9c3e086f90800000000000000
+      internalID: -6960297570653951816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfKing_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 101
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89277d4be7bca7d60800000000000000
+      internalID: 7888841442353181336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfKing_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1e430ff027f7fc0800000000000000
+      internalID: -3494949373036142167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfKing_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 51
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6883e61569e36b8b0800000000000000
+      internalID: -5136849509637277562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfKing_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 51
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b52c2c768e402470800000000000000
+      internalID: 8367774447170233783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfKing_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038c7c381306eee50800000000000000
+      internalID: 6840510649802934320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfKing_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3760095201bf8d40800000000000000
+      internalID: 5588880286231324479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfKing_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07351cc8bfc986d10800000000000000
+      internalID: 2119116228890022768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
